@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, My name is Hassan Abdullah</h1>
-<h3 align="center">Flutter developer</h3>
+<h3 align="center">Software Developer, Full Stack Web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/hassan2_21" target="blank"><img src="https://img.shields.io/twitter/follow/hassan2_21?logo=twitter&style=for-the-badge" alt="hassan2_21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hassan2_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassan2_21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hassan-abdullah221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-abdullah221/" height="30" width="40" /></a>
 </p>
 
